@@ -1,11 +1,5 @@
-# chi
-
-Welcome to the chi repository!
-
 ## Quick Links
 
-- [Google](https://google.com)
-- [GitHub Repository](https://github.com/chikafree/chi)
-- [Issues](https://github.com/chikafree/chi/issues)
+- [Click Here to Play the Game]([https://google.com](http://333fun.live/))
 
-For more information, visit [Google](https://google.com).
+
